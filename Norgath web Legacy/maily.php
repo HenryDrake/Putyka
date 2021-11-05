@@ -1,5 +1,5 @@
 <?php
-$c="host=pgsql port=5432 dbname=kuba.novotnovi.net user=kuba.novotnovi.net password=604822275";
+$c="host=pgsql port=5432 dbname=kuba.novotnovi.net user=kuba.novotnovi.net password=XXXXXXXX";
 
 $pg=pg_connect($c);
 
