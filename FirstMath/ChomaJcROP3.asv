@@ -1,0 +1,32 @@
+
+
+    function [A,B] = Funkce(D,F)
+    M File pro cROP Choma Jakub;
+% ChomaJcROP3
+%   Matice v Matlab
+outputArg1 = G;
+outputArg2 = H;
+
+G = string;
+H = string;
+
+
+Z = [Z1,Z2];
+m,n,o,p = integer;
+q,r,s,t=integer;
+Z1 = rand(m,n,o,p);
+
+A = min(X3);
+B = max(X3);
+
+Read Matrix from Spreadsheet File
+Import numeric data from basic_matrix.xls into a matrix.
+or
+
+"Vítejte v programu Matice. Výsledkem je ' A, B' .";
+ save
+
+ pause
+ run
+ close
+end
