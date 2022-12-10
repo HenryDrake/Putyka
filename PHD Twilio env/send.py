@@ -7,4 +7,3 @@ response.append(message)
 response.redirect('https://demo.twilio.com/welcome/sms/')
 
 print(response)
-pi
